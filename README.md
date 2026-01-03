@@ -42,9 +42,8 @@ I'm **mildly autistic**, which means I sometimes hyperfocus on weird bugs for ho
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackTactician&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/StackTactician)
 [![GitHub Streak](https://streak-stats.vercel.app/?user=StackTactician&theme=dark&hide_border=false)](https://github.com/StackTactician)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StackTactician&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/StackTactician)
+(https://github.com/StackTactician)
 
 ---
 
