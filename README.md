@@ -43,7 +43,6 @@ I'm **mildly autistic**, which means I sometimes hyperfocus on weird bugs for ho
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.vercel.app/?user=StackTactician&theme=dark&hide_border=false)](https://github.com/StackTactician)
-(https://github.com/StackTactician)
 
 ---
 
