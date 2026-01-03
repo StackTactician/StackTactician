@@ -1,6 +1,5 @@
 # StackTactician
 
-Config files for my GitHub profile.
 
 ## About Me
 
