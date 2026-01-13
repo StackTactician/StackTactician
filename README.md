@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I'm **Mubarak**, a curious mind exploring the exciting worlds of **Cybersecurity**, **Networking**, and modern web development with **Django** and **FastAPI**. I'm also starting to dip my toes into the vast ocean of **AI/ML**. Still learning a lot, but I'm building, breaking, and learning as I go.
+Hey there! I'm **Mubarak**, a curious mind exploring the exciting worlds of **Cybersecurity**, **Networking**, and modern web development with **Django** and **FastAPI**. Still learning a lot, but I'm building, breaking, and learning as I go.
 
 ---
 
