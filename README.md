@@ -9,16 +9,16 @@ Hey there! I'm **Mubarak**, a curious mind exploring the exciting worlds of **Cy
 
 ### What I'm Currently Learning:
 
-*    **Beginner Cybersecurity** – Grasping the fundamentals of network security, ethical hacking, and staying safe online.
+*    **InfoSec Basics** – Grasping the fundamentals of network security, ethical hacking, and staying safe online.
 *    **Networking Fundamentals** - Learning about TCP/IP, routing, subnetting, and how devices communicate.
 *    **Django & FastAPI** – Building robust and scalable web applications.
-*    **AI/ML Fundamentals** – Exploring the basics of machine learning and artificial intelligence.
+*    **AI/ML Fundamentals** – Exploring the basics of machine learning and artificial intelligence with Python. More of a hobbyist endeavor.
 
 ---
 
 ### Fun Fact:
 
-I'm **mildly autistic**, which means I sometimes hyperfocus on weird bugs for hours and get way too excited when things finally work. It's my dev superpower! 🚀
+I'm **mildly autistic**, which means I sometimes hyperfocus on weird bugs for hours and get way too excited when things finally work. Now that I think about it, it's not really a fun fact. Just an ordinary fact. Ouch.
 
 ---
 
