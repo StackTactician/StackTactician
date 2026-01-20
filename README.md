@@ -8,7 +8,7 @@ I’m a student at the University of Ibadan diving into cybersecurity, networkin
 
 ## Skills & Technologies
 
-django,git,github,postgres,nodejs,fastapi,linux
+(https://skillicons.dev/icons?i=django,git,github,postgres,nodejs,fastapi,linux&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
