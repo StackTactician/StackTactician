@@ -1,58 +1,36 @@
-# StackTactician
+## Hi there!
 
+I'm **Mubarak Mustapha**, an aspiring CyberSec specialist based in Ibadan. I work majorly with Python to build backend services, explore networking, and develop practical cybersecurity skills. Let's collaborate!
 
 ## About Me
 
-Hey there! I'm **Mubarak**, a curious mind exploring the exciting worlds of **Cybersecurity**, **Networking**, and modern web development with **Django** and **FastAPI**. Still learning a lot, but I'm building, breaking, and learning as I go.
+I’m a student at the University of Ibadan diving into cybersecurity, networking, and backend development using Python. When I step away from the screen, you’ll find me gaming, lost in a fictional world, or breaking a sweat at the gym.
 
----
+## Skills & Technologies
 
-### What I'm Currently Learning:
+django,git,github,postgres,nodejs,fastapi,linux
 
-*    **InfoSec Basics** – Grasping the fundamentals of network security, ethical hacking, and staying safe online.
-*    **Networking Fundamentals** - Learning about TCP/IP, routing, subnetting, and how devices communicate.
-*    **Django & FastAPI** – Building robust and scalable web applications.
-*    **AI/ML Fundamentals** – Exploring the basics of machine learning and artificial intelligence with Python. More of a hobbyist endeavor.
+## Top Projects
 
----
-
-### Fun Fact:
-
-I'm **mildly autistic**, which means I sometimes hyperfocus on weird bugs for hours and get way too excited when things finally work. Now that I think about it, it's not really a fun fact. Just an ordinary fact. Ouch.
-
----
-
-## Socials
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmmoyosore09@gmail.com)
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
+- [**LazyHooks**](https://github.com/StackTactician/LazyHooks): The easy way to handle webhooks in Python. Includes automatic retries, signing, and verification. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
+- [**Markets-InfoBot**](https://github.com/StackTactician/Markets-InfoBot): Simple Telegram bot for checking live crypto prices through relevant Binance APIs. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=StackTactician&theme=dark&hide_border=false)](https://github.com/StackTactician)
+🔹 **Public Repositories**: 8  
+🔹 **Followers**: 7  
+🔹 **Following**: 3
 
----
+## Recent Activity
 
-### GitHub Trophies
+- 🟢 Pushed to [**LazyHooks**](https://github.com/StackTactician/LazyHooks) on **Jan 20, 2026**  
+- 🟢 Pushed to [**Markets-InfoBot**](https://github.com/StackTactician/Markets-InfoBot) on **Jan 20, 2026**  
+- 🟢 Pushed to [**PC-Tracker**](https://github.com/StackTactician/PC-Tracker) on **Jan 3, 2026**
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StackTactician&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/StackTactician)
+## Latest Blog Posts
 
----
+No recent blog posts available.
 
-### Random Dev Quote
+## Connect with Me
 
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/StackTactician)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+{"linkedin":"https://www.linkedin.com/in/mubarak-mustapha-75b4b6300/","twitter":"https://x.com/notyet_him"}
