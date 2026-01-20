@@ -12,8 +12,9 @@ I’m a student at the University of Ibadan diving into cybersecurity, networkin
 
 ## Top Projects
 
-- [**LazyHooks**](https://github.com/StackTactician/LazyHooks): The easy way to handle webhooks in Python. Includes automatic retries, signing, and verification. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [**Markets-InfoBot**](https://github.com/StackTactician/Markets-InfoBot): Simple Telegram bot for checking live crypto prices through relevant Binance APIs. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
+[![**LazyHooks**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=LazyHooks&theme=dark)](https://github.com/StackTactician/LazyHooks)
+[![**Markets-InfoBot**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=Markets-InfoBot&theme=dark)](https://github.com/StackTactician/Markets-InfoBot)
+
 
 ## GitHub Stats
 
