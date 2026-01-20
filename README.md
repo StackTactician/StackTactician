@@ -17,10 +17,10 @@ I’m a student at the University of Ibadan diving into cybersecurity, networkin
 
 
 ## GitHub Stats
-
 🔹 **Public Repositories**: 8  
 🔹 **Followers**: 7  
 🔹 **Following**: 3
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacktactian&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -34,4 +34,4 @@ No recent blog posts available.
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/mubarak-mustapha-75b4b6300/","twitter":"https://x.com/notyet_him"}
+<a href="https://www.linkedin.com/in/mubarak-mustapha-75b4b6300/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://x.com/notyet_him" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a>
