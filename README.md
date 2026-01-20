@@ -15,13 +15,6 @@ I’m a student at the University of Ibadan diving into cybersecurity, networkin
 [![**LazyHooks**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=LazyHooks&theme=dark)](https://github.com/StackTactician/LazyHooks)
 [![**Markets-InfoBot**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=Markets-InfoBot&theme=dark)](https://github.com/StackTactician/Markets-InfoBot)
 
-
-## GitHub Stats
-🔹 **Public Repositories**: 8  
-🔹 **Followers**: 7  
-🔹 **Following**: 3
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacktactian&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Recent Activity
 
 - 🟢 Pushed to [**LazyHooks**](https://github.com/StackTactician/LazyHooks) on **Jan 20, 2026**  
