@@ -14,13 +14,6 @@ When I'm away from the screen: gaming, deep in a fictional universe, or at the g
 
 ---
 
-## Projects
-
-[![LazyHooks](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=LazyHooks&theme=dark)](https://github.com/StackTactician/LazyHooks)
-[![Markets-InfoBot](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=Markets-InfoBot&theme=dark)](https://github.com/StackTactician/Markets-InfoBot)
-
----
-
 ## Recent Pushes
 
 - [LazyHooks](https://github.com/StackTactician/LazyHooks) · Jan 20, 2026
