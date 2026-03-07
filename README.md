@@ -4,8 +4,6 @@ I write Python, build backend services, and spend a lot of time learning how sys
 
 When I'm away from the screen: gaming, deep in a fictional universe, or at the gym.
 
-📍 Ibadan, NG
-
 ---
 
 ## Tools I Use
