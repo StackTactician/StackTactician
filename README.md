@@ -1,30 +1,32 @@
-## Hi there!
+# Mubarak Mustapha
 
-I'm **Mubarak Mustapha**, an aspiring CyberSec specialist based in Ibadan. I work majorly with Python to build backend services, explore networking, and develop practical cybersecurity skills. Let's collaborate!
+Backend developer and aspiring cybersecurity specialist based in Ibadan. I work primarily with Python — building backend services, poking at networks, and developing hands-on security skills. Currently studying at the University of Ibadan.
 
-## About Me
+Outside the terminal: gaming, deep in a fictional universe, or at the gym.
 
-I’m a student at the University of Ibadan diving into cybersecurity, networking, and backend development using Python. When I step away from the screen, you’ll find me gaming, lost in a fictional world, or breaking a sweat at the gym.
+---
 
-## Skills & Technologies
+## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=django,git,github,postgres,nodejs,fastapi,linux&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,nodejs,linux,git,github&perline=7)](https://skillicons.dev)
 
-## Top Projects
+---
 
-[![**LazyHooks**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=LazyHooks&theme=dark)](https://github.com/StackTactician/LazyHooks)
-[![**Markets-InfoBot**](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=Markets-InfoBot&theme=dark)](https://github.com/StackTactician/Markets-InfoBot)
+## Projects
+
+[![LazyHooks](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=LazyHooks&theme=dark)](https://github.com/StackTactician/LazyHooks)
+[![Markets-InfoBot](https://github-readme-stats.vercel.app/api/pin/?username=StackTactician&repo=Markets-InfoBot&theme=dark)](https://github.com/StackTactician/Markets-InfoBot)
+
+---
 
 ## Recent Activity
 
-- 🟢 Pushed to [**LazyHooks**](https://github.com/StackTactician/LazyHooks) on **Jan 20, 2026**  
-- 🟢 Pushed to [**Markets-InfoBot**](https://github.com/StackTactician/Markets-InfoBot) on **Jan 20, 2026**  
-- 🟢 Pushed to [**PC-Tracker**](https://github.com/StackTactician/PC-Tracker) on **Jan 3, 2026**
+- Pushed to [LazyHooks](https://github.com/StackTactician/LazyHooks) — Jan 20, 2026
+- Pushed to [Markets-InfoBot](https://github.com/StackTactician/Markets-InfoBot) — Jan 20, 2026
+- Pushed to [PC-Tracker](https://github.com/StackTactician/PC-Tracker) — Jan 3, 2026
 
-## Latest Blog Posts
+---
 
-No recent blog posts available.
+## Connect
 
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/mubarak-mustapha-75b4b6300/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://x.com/notyet_him" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a>
+[LinkedIn](https://www.linkedin.com/in/mubarak-mustapha-75b4b6300/) · [Twitter / X](https://x.com/notyet_him)
